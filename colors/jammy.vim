@@ -1,9 +1,7 @@
-" Vim color file
+" Vim color file inherit from the desrt.vim 
 " Maintainer:	Jammy Lee<mistapostle@gmail.com>
-" Last Change:	$Date: 2004/06/13 19:30:30 $
-" Last Change:	$Date: 2004/06/13 19:30:30 $
-" URL:		http://hans.fugal.net/vim/colors/desert.vim
-" Version:	$Id: desert.vim,v 1.1 2004/06/13 19:30:30 vimboss Exp $
+" Last Change:	$Date: 2008/03/20 19:30:30 $
+" Version:	$Id: jammy.vim,v 1.1 2008/03/20 $
 
 " cool help screens
 " :he group-name
